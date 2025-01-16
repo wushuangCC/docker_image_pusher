@@ -11,4 +11,7 @@
 #docker.getcollate.io/openmetadata/ingestion:1.6.1
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.4
 
-postgres
+#postgres
+#doris
+apache/doris.fe-ubuntu:latest
+apache/doris.be-ubuntu:latest
