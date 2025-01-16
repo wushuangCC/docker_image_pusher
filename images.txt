@@ -13,5 +13,5 @@
 
 #postgres
 #doris
-apache/doris.fe-ubuntu:latest
-apache/doris.be-ubuntu:latest
+apache/doris.fe-ubuntu:3.0.1
+apache/doris.be-ubuntu:3.0.1
