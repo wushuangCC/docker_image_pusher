@@ -15,3 +15,5 @@
 #doris
 apache/doris:fe-ubuntu-2.1.7
 apache/doris:be-ubuntu-2.1.7
+#
+bitnami/kafka:4.0.0
