@@ -18,3 +18,4 @@ apache/doris:be-ubuntu-2.1.7
 #
 bitnami/kafka:4.0.0
 #
+nacos/nacos-server:v3.0.2
